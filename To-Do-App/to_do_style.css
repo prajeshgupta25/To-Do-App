@@ -1,0 +1,39 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+   background-color:#c7ecee;
+}
+h1{
+   text-align: center;
+   font-size: 3em;
+   color: #30336b;
+   font-family: 'Architects Daughter', cursive;
+   font-family: 'Festive', cursive;
+   font-family: 'Orbitron', sans-serif;
+}
+input{
+   width: 500px;
+   height: 50px;
+   font-size: 20px;  
+   font-family: 'Architects Daughter', cursive;
+   font-family: 'Festive', cursive;
+   font-family: 'Orbitron', sans-serif;
+}
+.btn{
+   width: 100px ;
+   height: 50px;
+   font-size: 20px;
+   font-family: 'Architects Daughter', cursive;
+   font-family: 'Festive', cursive;
+   font-family: 'Orbitron', sans-serif;
+}
+li{
+   color: #30336b;
+   list-style: square;
+   font-size: 30px;
+   font-family: 'Architects Daughter', cursive;
+   font-family: 'Festive', cursive;
+   font-family: 'Orbitron', sans-serif;
+}
